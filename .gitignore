@@ -2,6 +2,8 @@
 /*
 
 # Whitelist relevant config files
+!LICENSE
+
 !.gitignore
 
 !.profile
