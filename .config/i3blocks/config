@@ -1,5 +1,4 @@
 separator_block_width=24
-markup=pango
 
 [internet]
 command=~/.scripts/statusbar/i3internet
