@@ -1,0 +1,21 @@
+# Blacklist all files initially
+/*
+
+# Whitelist relevant config files
+!.gitignore
+
+!.profile
+!.xprofile
+!.zprofile
+
+!.Xdefaults
+
+!.emoji
+
+!.bashrc
+!.inputrc
+
+!.config/
+!.scripts/
+
+!README.md
