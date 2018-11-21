@@ -1,0 +1,21 @@
+separator_block_width=24
+markup=pango
+
+[internet]
+command=~/.scripts/statusbar/i3internet
+interval=5
+
+[batterylevel]
+command=~/.scripts/statusbar/i3battery BAT0
+interval=5
+
+[date]
+command=date '+%b %-d'
+interval=1000
+
+[time]
+label=🕒 
+command=date '+%I:%M:%S %p'
+interval=1
+
+
